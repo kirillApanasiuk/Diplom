@@ -1,0 +1,3 @@
+export const GET_PERMISSION_ACTIONS={
+    REQUEST = "REQUEST"
+}
